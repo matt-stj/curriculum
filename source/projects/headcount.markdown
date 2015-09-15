@@ -71,7 +71,7 @@ The instance of this object represents data from the following files:
 
 ##### `.initialize(name)`
 
-An instance this class can be initialized by supplying the name of the district
+An instance of this class can be initialized by supplying the name of the district
 which is then used to find the matching data in the data files.
 
 That instance then offers the following methods:
